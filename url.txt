@@ -1,1 +1,1 @@
-https://preview-instrumental-onion-trainers.trycloudflare.com
+https://api.trycloudflare.com
